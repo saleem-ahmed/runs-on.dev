@@ -6,7 +6,9 @@
   },
   "claimedAt": "2026-10-28T20:13:02.891Z",
   "records": {
-    "TXT": "vc-domain-verify=ahmedsaleem.runs-on.dev,2a01007c8e6e2bdb7ac2"
+    "TXT": [
+      "vc-domain-verify=ahmedsaleem.runs-on.dev,2a01007c8e6e2bdb7ac2"
+    ]
   },
   "country": "PK"
 }
