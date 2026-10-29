@@ -1,3 +1,4 @@
+
 {
   "name": "ahmedsaleem",
   "owner": {
@@ -5,13 +6,17 @@
   },
   "claimedAt": "2026-10-28T20:13:02.891Z",
   "records": {
-    "CNAME":[
-      value: "5015887337b2648e.vercel-dns-017.com.",
-      name: "ahmedsaleem"
+    "CNAME": [
+      {
+        "value": "5015887337b2648e.vercel-dns-017.com.",
+        "name": "ahmedsaleem"
+      }
     ],
-    "TXT":[
-      name: "_vercel",
-      value:"vc-domain-verify=ahmedsaleem.runs-on.dev,2a01007c8e6e2bdb7ac2"
+    "TXT": [
+      {
+        "name": "_vercel",
+        "value": "vc-domain-verify=ahmedsaleem.runs-on.dev,2a01007c8e6e2bdb7ac2"
+      }
     ]
   },
   "country": "PK"
