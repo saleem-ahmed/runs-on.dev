@@ -1,0 +1,23 @@
+{
+  "name": "votespace",
+  "owner": {
+    "github": "emd100tt-spec"
+  },
+  "claimedAt": "2026-10-29T08:45:37.660Z",
+  "records": {
+    "CNAME": "custom-domains.chatgpt.site"
+  },
+  "country": "NL",
+  "subdomains": {
+    "_openai-site-verification": {
+      "TXT": [
+        "openai-site-verification=7ucNMgupdLqqiMl6G0W1iTAAXhcoBpxUsmT3F_UZazA"
+      ]
+    },
+    "_cf-custom-hostname": {
+      "TXT": [
+        "45481770-0293-4b45-9a68-8171e93ae015"
+      ]
+    }
+  }
+}

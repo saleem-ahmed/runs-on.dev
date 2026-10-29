@@ -7,12 +7,5 @@
   "records": {
     "CNAME": "26f7959f52dcb5a3.vercel-dns-017.com"
   },
-  "country": "LK",
-  "subdomains": {
-    "_vercel": {
-      "TXT": [
-        "vc-domain-verify=echora.runs-on.dev,8538c3648179b4655efd"
-      ]
-    }
-  }
+  "country": "LK"
 }

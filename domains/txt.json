@@ -4,6 +4,8 @@
     "github": "barryallen16"
   },
   "claimedAt": "2026-10-29T05:22:07.314Z",
-  "records": {},
+  "records": {
+    "CNAME": "barryallen16.github.io"
+  },
   "country": "IN"
 }
