@@ -4,6 +4,8 @@
     "github": "Syedaffan78"
   },
   "claimedAt": "2026-10-19T07:18:11.955Z",
-  "records": {},
+  "records": {
+    "CNAME": "syed-affan-portfolio.web.app"
+  },
   "country": "IN"
 }

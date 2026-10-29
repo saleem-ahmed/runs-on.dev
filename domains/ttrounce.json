@@ -4,6 +4,8 @@
     "github": "Shivam-0512"
   },
   "claimedAt": "2026-10-28T20:17:33.847Z",
-  "records": {},
+  "records": {
+    "A": ["137.23.35.66"]
+  },
   "country": "IN"
 }

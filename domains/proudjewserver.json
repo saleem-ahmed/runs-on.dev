@@ -9,5 +9,12 @@
       "82.70.254.49"
     ]
   },
-  "country": "IL"
+  "country": "IL",
+  "subdomains": {
+    "livetv": {
+      "A": [
+        "82.70.254.49"
+      ]
+    }
+  }
 }
